@@ -1,5 +1,6 @@
 # Statistical Distributions - Recap
 
+Anthony's Readme file corrected again
 ## Introduction
 
 You have now completed the second of two foundational statistics sections! In the following section you will apply this knowledge of statistical distributions to begin finding *inferential* statistics.
